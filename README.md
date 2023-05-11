@@ -81,16 +81,12 @@ Postgres
 
 ```text
 💬 Programming Languages: 
-Other                    1 min               █████████████████████████   100.00 % 
+Other                    240 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+VS Code                  240 min               █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/05/2023 06:11:31 UTC
-<!--END_SECTION:waka-->
-<!--- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Xanduzinha63&custom_title=&layout=compact&theme=algolia&hide_border=true&hide=other,git%20config,json">
--->
 
-<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabio-barros&repo=spacex-graphql)](https://github.com/fabio-barros/spacex-graphql)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabio-barros&repo=natural-event-tracker)](https://github.com/fabio-barros/natural-event-tracker) -->
+
