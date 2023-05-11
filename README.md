@@ -18,7 +18,7 @@
 <!--- 
 Lang Stats
 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-barros&hide=html,css,dockerfile,scss,shell&hide_border=true&langs_count=10&layout=compact&theme=algolia&hide_border=true)](https://github.com/fabio-barros" width="400"  align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhmartire&hide=html,css,dockerfile,scss,shell&hide_border=true&langs_count=10&layout=compact&theme=algolia&hide_border=true)](https://github.com/fabio-barros" width="400"  align="right">
 
 <!---#### Back End
 <!--- 
@@ -65,8 +65,12 @@ Postgres
 
 ### Programming Communities
 
-[![HackerRank](https://seusite.com/badges/hackerrank_badge.png)](https://www.hackerrank.com/jhmartireuk)
-<a href="https://www.codewars.com/users/jhmartire"><img src="https://seusite.com/badges/codewars_badge.png" alt="CodeWars" width="144" height="32"/></a>
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/jhmartireuk) [![CodeWars](https://img.shields.io/badge/CodeWars-8B0000?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/seu_username) [![Comunidade DS](https://img.shields.io/badge/Comunidade_DS-%23FFA500?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAqCAYAAABcZNYzAAAA2ElEQVR42u3bQQrCQBBG4X/aYl5rPd5xPHeOcCfbQIUOicIuGwQeo1/QQtu3q9zg7OuZljRzjDnMePmUnm/rM/xu1wR6ajRnZzZH9sUj8sE78QfgH/AaG3wrjnxvA8A/iW+ivf77ZB63AU9BvzGj8W+v92A+4/BfMfyh4C4BjwDPgJfAO8Ap8Uv9Xc1+6T1gQq3m6vPd6wW8Ar4Pf/4AcZEPvYD2gW8Av4BfgB/BngyNv4COO4w4/LkD+gK+gI+CPzX5d5rFLSCAAAAAElFTkSuQmCC&logoColor=white)](https://comunidadeds.com.br/)
+
+
+
+
 
 
 
