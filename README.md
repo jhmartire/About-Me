@@ -39,7 +39,8 @@ Ruby
 --> 
 <!-- <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" align="center"/>  -->
 <!-- <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" align="center"/>  -->
- <img alt="Python#" src="https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" align="center" /> <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" align="center" /> 
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" align="center" /> <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sql&logoColor=white" align="center" /> <img src="https://img.shields.io/badge/Streamlit-%F0%9F%9B%A0-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" align="center" />
+
 <!-- <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" align="center" /> -->
 <!--- 
 Firebase
@@ -64,8 +65,10 @@ Postgres
 
 ### Programming Communities
 
-[![HackerRank](/badges/hackerrank_badge.png)](https://www.hackerrank.com/whatupfabio)
-<a href="https://www.codewars.com/users/Xanduzinha63"><img src="badges/codewars_badge.png" alt="CodeWars" width="144" height="32"/></a>
+[![HackerRank](https://seusite.com/badges/hackerrank_badge.png)](https://www.hackerrank.com/jhmartireuk)
+<a href="https://www.codewars.com/users/jhmartire"><img src="https://seusite.com/badges/codewars_badge.png" alt="CodeWars" width="144" height="32"/></a>
+
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-438%20hrs%2031%20mins-blue)
